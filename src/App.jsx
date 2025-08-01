@@ -1,8 +1,8 @@
-import Pokedex from './Pokedex/Pokedex.jsx';
+import CustomRoutes from './routes/CustomRoutes.jsx';
 function App() {
   return (
     <>
-      <Pokedex />
+      <CustomRoutes />
     </>
   )
 }
